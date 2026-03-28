@@ -1,7 +1,5 @@
 ## Hi there! 👋
 
-# Hi there! 👋
-
 I'm **Mohanakrishnan** (mxh4n) — a developer and Cybersecurity Enthuist 
 
 Tagline: Building real-time vision systems that turn live video into actionable insights 🚀

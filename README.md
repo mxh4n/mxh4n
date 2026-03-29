@@ -7,7 +7,7 @@ Tagline: Building real-time vision systems that turn live video into actionable 
 ## About Me
 
 
-- Name: Mohanakrishnan (github.com/mxh4n)  
+- Name: Mohanakrishnan 
 - Role: Developer | Cybersecurity enthusiast  
 
 
